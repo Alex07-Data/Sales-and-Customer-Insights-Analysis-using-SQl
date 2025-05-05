@@ -1,6 +1,7 @@
 📊 Sales and Customer Insights Analysis
 
 This project analyzes sales trends, customer behavior, and product performance for a fashion retail business. The primary goal is to extract actionable insights from transactional data to inform strategic decisions.
+
 ✅ Objectives
 
     Identify top-selling products and revenue-generating categories
